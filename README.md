@@ -20,7 +20,7 @@ For me, working with computers is not just a skill — it's something I truly en
 - 👯 I’m looking to collaborate on tech projects related to hardware, PC building, or beginner software development.
 - 🤔 I’m looking for help with becoming better at programming and improving my English.
 - 💬 Ask me about computer repair, PC components, and system optimization.
-- 📫 How to reach me: Open to connecting via email or LinkedIn.
+- 📫 How to reach me: Open to connecting via email or Discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can build and fully set up a PC from scratch and optimize it for performance.
 
